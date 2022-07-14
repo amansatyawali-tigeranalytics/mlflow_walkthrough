@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/a551b52a13fb419f87f648faecd9fcac/artifacts
+end_time: 1657739097660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a551b52a13fb419f87f648faecd9fcac
+run_uuid: a551b52a13fb419f87f648faecd9fcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657739095861
+status: 4
+tags: []
+user_id: aman
